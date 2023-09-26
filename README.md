@@ -1,2 +1,2 @@
-# DSAAssignment1
-My assignment 1 in Data Structures and Algorithms
+# DSAAssignment2
+My assignment 2 in Data Structures and Algorithms
